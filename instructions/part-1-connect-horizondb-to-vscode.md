@@ -8,11 +8,11 @@ In this part, we will connect to your Azure HorizonDB database using the VS Code
 
     ![VS Code Icon](media/vs-code-icon.png)
 
-1. Once inside VS Code, you should be already in the **"C:\\Lab"** folder.  If not, select **File** > **Open Folder...** > Choose **"C:\\Lab"** to open this folder into your workspace
+1. Once inside VS Code, you should be already in the **"C:\\Lab392"** folder.  If not, select **File** > **Open Folder...** > Choose **"C:\\Lab392"** to open this folder into your workspace
 
     ![Lab Folder](media/lab-folder.png)
 
-1. Now, in the **"LAB"** folder, look for a **".env"** file and double click to open it.
+1. Now, in the **"LAB392"** folder, look for a **".env"** file and double click to open it.
 
     ![Env File Click](media/env-file-click.png)
 

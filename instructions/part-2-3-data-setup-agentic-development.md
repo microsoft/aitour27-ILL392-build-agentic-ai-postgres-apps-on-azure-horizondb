@@ -2,7 +2,7 @@
 
 For the remainder of the lab we are going to work from two Jupyter Python Notebooks within VS Code.  All further lab instructions will be in-line within each notebook. The first notebook (Notebook 1) is a data setup notebook and the second notebook (Notebook 2) is the agentic application development notebook.
 
-These notebooks are both located in the **"C:\\Lab"** folder structure under the folder **"Code"**:
+These notebooks are both located in the **"C:\\Lab392"** folder structure under the folder **"Code"**:
 
 - **1-data-setup.ipynb** (Notebook 1)
 - **2-app-development.ipynb** (Notebook 2)
@@ -28,4 +28,4 @@ Additionally, there is a third, optional notebook, which is a diagnostics notebo
     ![Notebook 2](media/notebook-2-app-development.png)
 
     > [!alert]
-    > At this point, continue the lab following the instructions in the Notebook 1 in VS Code.
+    > At this point, continue the lab following the instructions in Notebook 1 in VS Code.
