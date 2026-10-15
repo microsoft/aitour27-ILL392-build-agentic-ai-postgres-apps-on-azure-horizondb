@@ -2,7 +2,7 @@
 
 ## Build Agentic AI PostgreSQL Apps on Azure HorizonDB
 
-This folder contains the presenter and attendee presentation decks and the guidance needed to run the **ILL392** lab session at the Microsoft AI Tour or re-deliver it at user groups, user enablement sessions, community events and other similar engagements.
+This folder contains the presenter and attendee presentation decks and the guidance needed to run the **ILL392** lab session at the Microsoft Frontier Tour or re-deliver it at user groups, user enablement sessions, community events and other similar engagements.
 
 ## Who this guide is for
 
@@ -18,7 +18,7 @@ If you are an attendee working through the lab, start at the root [README](/READ
 | Item | Link | Notes |
 |---|---|---|
 | Delivery deck | coming soon | Required URL |
-| Session recording | [Recording](https://aka.ms/aitour27/ILL392/youtube) | Optional URL when available |
+| Session recording | [Recording](https://aka.ms/ft27/ill392/youtube) | Optional URL when available |
 | Attendee landing page | [Session README](/README.md) | Public starting point |
 | Workshop/lab instructions | [Instructions](/instructions/README.md) | Lab instructions for attendees |
 
