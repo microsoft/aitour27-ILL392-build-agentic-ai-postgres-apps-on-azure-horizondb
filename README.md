@@ -1,10 +1,10 @@
 <a name="start-building"></a>
 
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/banner-frontier-tour-27.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
-# [Microsoft AI Tour 2027](https://aitour.microsoft.com)
+# [Microsoft Frontier Tour 2027](https://aitour.microsoft.com)
 
 ## 🔥 ILL392: Build agentic AI Postgres apps on Azure HorizonDB
 
@@ -55,12 +55,12 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
-| **[Session Recording](https://aka.ms/aitour27/ILL392/youtube)** | A recording of session ILL392 by the session creator |
+| **[Session Recording](https://aka.ms/ft27/ill392/youtube)** | A recording of session ILL392 by the session creator |
 | **[Microsoft Learn](https://learn.microsoft.com)** | Official documentation and guided learning paths on these topics |
-| **[AI Tour 2027 Resource Center](https://aka.ms/aitour27-resource-center)** | Additional session repos and materials from AI Tour 2027 |
+| **[Frontier Tour 2027 Resource Center](https://aka.ms/FrontierTour27)** | Additional session repos and materials from Frontier Tour 2027 |
 | **[Agentic Advisor Solution Accelerator](https://aka.ms/agentic-advisor)** | Pre-built solution accelerator for building agentic AI applications |
 | **[GraphRAG solution for Azure Database for PostgreSQL](https://aka.ms/pg-graphrag)** | An end-to-end example of applying the GraphRAG technique to the Postgres Legal Research Copilot application to boost the quality of LLM responses and the accuracy of information retrieval pipeline |
-| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-AITour27)** | Connect with other learners and experts in our Discord community |
+| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-ft27)** | Connect with other learners and experts in our Discord community |
 
 ### 🌟 Microsoft Learn MCP Server
 
